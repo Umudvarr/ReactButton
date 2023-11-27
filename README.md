@@ -41,15 +41,13 @@ ReactDOM.render(
 
 ### namespace
 
-> String
-
-Your GitHub id or organization name.
+> Umudvarr
 
 ### repo
 
-> String
+> react-github-button.
 
-react-github-button.
+
 
 ## License
 
