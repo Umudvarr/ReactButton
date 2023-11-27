@@ -49,7 +49,7 @@ Your GitHub id or organization name.
 
 > String
 
-The name of your repository.
+react-github-button.
 
 ## License
 
