@@ -1,5 +1,3 @@
-# ReactButton
-
 # react-github-button
 
 [![](https://img.shields.io/travis/btnn/react-github-button.svg?style=flat-square)](https://travis-ci.org/btnn/react-github-button)
